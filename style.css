@@ -1,0 +1,71 @@
+.parallax{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.70;
+}
+.first-parallax{
+    background-image: url(images/image1.jpg);
+    height: 600px;
+}
+.span-div{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    position: absolute;
+    top: 50%;
+    width: 98%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.span{
+    background-color: black;
+    padding: 20px 20px 20px 20px;
+}
+.section{
+    text-align: center;
+    padding: 50px 80px 50px 80px;
+}
+#first-p{
+    color: #666;
+    margin: 20px 0 20px 0;
+}
+.second-parallax{
+    background-image: url(images/image2.jpg);
+    height: 400px;
+}
+.second-span{
+    position: relative;
+    top: 50%;
+    width: 98%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.second-section{
+    background-color: rgb(39, 38, 38);
+    color: #ddd;
+}
+.third-parallax{
+    background-image: url(images/image3.jpg);
+    height: 400px;
+}
+.third-span{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    position: relative;
+    top: 50%;
+    width: 98%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
